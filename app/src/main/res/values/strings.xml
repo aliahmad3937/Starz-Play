@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Starz Play</string>
+    <string name="play">Play</string>
+    <string name="back">Back</string>
+    <string name="search_content">Search content...</string>
+    <string name="no_image">No Image</string>
+    <string name="loading">Loading</string>
+</resources>
