@@ -40,7 +40,6 @@ A modern Android demo application for browsing and viewing movies, built with **
 
 ## 🧱 Project Structure
 starz-play/
-
 ├── app/         # Main application module (UI, navigation, DI entry point)
 ├── core/        # Core module (network, domain, DI, models)
 ├── build.gradle.kts
