@@ -54,11 +54,11 @@ Getting Started
 
 # Pictures
 <p float="left">
-<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen1.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen2.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen3.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen4.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen5.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen1.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen2.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen3.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen4.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/Starz-Play/blob/main/asset/screen5.jpg" width="150" height="280">
 </p>
 
 
