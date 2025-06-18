@@ -1,55 +1,71 @@
-**Starz Play - Movie DB Demo**
+# 🌟 Starz Play – Movie DB Demo
 
+A modern Android demo application for browsing and viewing movies, built with **best practices** and a **modular, scalable architecture**.
 
-A modern Android demo application for browsing and viewing movies, built with best practices and a modular, scalable architecture.
+---
 
+## ✨ Features
 
-**Features**
-Browse a list of movies fetched from The Movie Database (TMDb) API
-View detailed information about each movie
-Watch movie trailers using an integrated video player
-Search for movies
-Modern, responsive UI with Jetpack Compose
-Navigation with Compose Destinations
-Dependency injection with Hilt
-Modularized codebase with a clean architecture approach
-Grdale with Version Catalog
+- 🔍 Browse a list of movies fetched from **The Movie Database (TMDb) API**
+- 🎬 View detailed information about each movie
+- 📺 Watch movie trailers using an integrated video player
+- 🔎 Search for movies with real-time results
+- 🖼️ Modern, responsive UI built with **Jetpack Compose**
+- 🧭 Navigation powered by **Compose Destinations**
+- 💉 Dependency injection with **Hilt**
+- 🧱 Modularized codebase following **Clean Architecture**
+- ⚙️ Gradle with **Version Catalog** for managing dependencies
 
+---
 
-**Tech Stack**
-Language: Kotlin
-Minimum SDK: 24
-Target/Compile SDK: 34
-UI: Jetpack Compose, Material3
-Navigation: Compose Destinations
-Dependency Injection: Hilt
-Networking: Retrofit 2 with Gson converter
-Image Loading: Coil
-Video Playback: ExoPlayer Compose
-Coroutines: For asynchronous programming
-Architecture: Modular, Clean Architecture (with core and app modules)
-Testing: JUnit, MockK, Turbine, AndroidX Test
-Other: SplashScreen API, ViewModel, Lifecycle, Parcelize, KSP/KAPT
+## 🛠️ Tech Stack
 
+| Category               | Technology                                         |
+|------------------------|----------------------------------------------------|
+| **Language**           | Kotlin                                             |
+| **Minimum SDK**        | 24                                                 |
+| **Target/Compile SDK** | 34                                                 |
+| **UI Framework**       | Jetpack Compose, Material3                         |
+| **Navigation**         | Compose Destinations                               |
+| **Dependency Injection** | Hilt                                             |
+| **Networking**         | Retrofit 2 with Gson converter                     |
+| **Image Loading**      | Coil                                               |
+| **Video Playback**     | ExoPlayer Compose                                  |
+| **Async Programming**  | Kotlin Coroutines                                  |
+| **Architecture**       | Modular, Clean Architecture (core & app modules)   |
+| **Testing**            | JUnit, MockK, Turbine, AndroidX Test               |
+| **Other**              | SplashScreen API, ViewModel, Lifecycle, Parcelize, KSP/KAPT |
 
-**Project Structure**
-Starz-Play/
-├── app/        # Main application module (UI, navigation, DI entry point)
-├── core/       # Core module (network, data, domain, DI, models)
-├── build.gradle.kts, settings.gradle.kts, etc.
+---
 
+## 🧱 Project Structure
+starz-play/
+├── app/         # Main application module (UI, navigation, DI entry point)
+├── core/        # Core module (network, domain, DI, models)
+├── build.gradle.kts
+├── settings.gradle.kts
+└── …other configuration files
 
-Getting Started
-1- Clone the repository:
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
    git clone https://github.com/aliahmad3937/starz-play.git
-   cd starz-play
 
 
-2- Open in Android Studio.
-3- Add your TMDb API key and token:
-    Place them in the appropriate location in the core module (see Constants in the code).
+2.	Open the project in Android Studio
+3.	Add your TMDb API key and token
+	•	Locate the Constants file inside the core module.
+	•	Insert your TMDb API key and token in the specified location.
+4.	Build and Run
+	•	Choose an emulator or a physical device.
+	•	Run the project from Android Studio.
 
-4- Build and run the app on an emulator or device.
+📌 Notes
+	•	This app is for demonstration purposes and not intended for production use.
+	•	You must comply with TMDb’s terms of use when using their API.
 
 
 # Pictures
